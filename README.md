@@ -1,5 +1,7 @@
-### Miscellaneous Jupyter Notebooks
+#### Miscellaneous Jupyter Notebooks
 
-*Sudoku Solver*
+<hr>
+
+**Sudoku Solver**
 
 Functionally inspired Python Sudoku solver.
