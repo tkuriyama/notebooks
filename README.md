@@ -1,6 +1,6 @@
 ## IPython / Jupyter
 
-[*New Coders Survey 2016*](https://github.com/tkuriyama/notebooks/blob/master/ipython/New_Coders_Survey_2019.ipynb)
+[*New Coders Survey 2016*](https://github.com/tkuriyama/notebooks/blob/master/ipython/New_Coders_Survey_2016.ipynb)
 
 A brief exploration fo the Free Code Camp's New Coders Survey 2016 dataset.
 
